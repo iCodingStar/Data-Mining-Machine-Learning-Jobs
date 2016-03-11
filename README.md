@@ -1,2 +1,4 @@
-# Data-Mining-Machine-Learning-Jobs
-Interview Experience About DataMining / Machine Learning 
+### 目录结构为：
+> 文件夹(以公司名称命名)
+> 
+>  > md文件(格式为：公司名称(第几次面试)\_整理者\_日期)
